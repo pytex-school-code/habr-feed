@@ -11,7 +11,7 @@
         <offers>
             <offer id="1" available="true"> 
                 <name>Backend разработка на Python. Тариф Только курс</name>
-                <url>https://pytex.school/courses/backend?utm_source=habr&amp;utm_medium=banner&amp;utm_campaign=regular&amp;utm_content=habr_courses</url>
+                <url>https://pytex.school/courses/backend?utm_source=habr&amp;utm_medium=banner&amp;utm_campaign=regular&amp;utm_content=habr_courses_backend</url>
                 <price>51992</price>
                 <oldprice>64990</oldprice>
                 <currencyId>RUB</currencyId>
@@ -38,7 +38,7 @@
             </offer>
             <offer id="2" available="true"> 
                 <name>Backend разработка на Python. Тариф Курс + Проект</name>
-                <url>https://pytex.school/courses/backend?utm_source=habr&amp;utm_medium=banner&amp;utm_campaign=regular&amp;utm_content=habr_courses</url>
+                <url>https://pytex.school/courses/backend?utm_source=habr&amp;utm_medium=banner&amp;utm_campaign=regular&amp;utm_content=habr_courses_backend</url>
                 <price>63992</price>
                  <oldprice>79990</oldprice>
                 <currencyId>RUB</currencyId>
@@ -65,7 +65,7 @@
             </offer>
             <offer id="3" available="true"> 
                 <name>Backend разработка на Python. Тариф Курс + Проект с автором</name>
-                <url>https://pytex.school/courses/backend?utm_source=habr&amp;utm_medium=banner&amp;utm_campaign=regular&amp;utm_content=habr_courses</url>
+                <url>https://pytex.school/courses/backend?utm_source=habr&amp;utm_medium=banner&amp;utm_campaign=regular&amp;utm_content=habr_courses_backend</url>
                 <price>103992</price>
                  <oldprice>129990</oldprice>
                 <currencyId>RUB</currencyId>
@@ -92,7 +92,7 @@
             </offer>
             <offer id="4" available="true"> 
                 <name>Продвинутое ООП в Python. От простого к сложному</name>
-                <url>https://pytex.school/courses/oop?utm_source=habr&amp;utm_medium=banner&amp;utm_campaign=regular&amp;utm_content=habr_courses</url>
+                <url>https://pytex.school/courses/oop?utm_source=habr&amp;utm_medium=banner&amp;utm_campaign=regular&amp;utm_content=habr_courses_oop</url>
                 <price>9600</price>
                  <oldprice>12000</oldprice>
                 <currencyId>RUB</currencyId>
