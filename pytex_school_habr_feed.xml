@@ -35,7 +35,7 @@
                 <target>Развить навыки в backend разработке</target>
                 <param name="Выдаётся сертификат">Да</param>
                 <param name="Помощь с трудоустройством">Нет</param>
-                <picture>https://www.figma.com/design/XzgizihnHjks3k6wZ7dFzj/Untitled?node-id=1-2&t=fqwZdCO3Jl4K8esc-1​</picture>
+                <picture>https://www.figma.com/design/XzgizihnHjks3k6wZ7dFzj/Untitled?node-id=1-2&amp;t=fqwZdCO3Jl4K8esc-1​</picture>
             </offer>
             <offer id="2" available="true"> 
                 <name>Backend разработка на Python. Тариф Курс + Проект</name>
@@ -63,7 +63,7 @@
                 <target>Развить навыки в backend разработке</target>
                 <param name="Выдаётся сертификат">Да</param>
                 <param name="Помощь с трудоустройством">Нет</param>
-                <picture>https://www.figma.com/design/XzgizihnHjks3k6wZ7dFzj/Untitled?node-id=1-2&t=fqwZdCO3Jl4K8esc-1​</picture>
+                <picture>https://www.figma.com/design/XzgizihnHjks3k6wZ7dFzj/Untitled?node-id=1-2&amp;t=fqwZdCO3Jl4K8esc-1​</picture>
             </offer>
             <offer id="3" available="true"> 
                 <name>Backend разработка на Python. Тариф Курс + Проект с автором</name>
@@ -91,7 +91,7 @@
                 <target>Развить навыки в backend разработке</target>
                 <param name="Выдаётся сертификат">Да</param>
                 <param name="Помощь с трудоустройством">Нет</param>
-                <picture>https://www.figma.com/design/XzgizihnHjks3k6wZ7dFzj/Untitled?node-id=1-2&t=fqwZdCO3Jl4K8esc-1​</picture>
+                <picture>https://www.figma.com/design/XzgizihnHjks3k6wZ7dFzj/Untitled?node-id=1-2&amp;t=fqwZdCO3Jl4K8esc-1​</picture>
             </offer>
             <offer id="4" available="true"> 
                 <name>Продвинутое ООП в Python. От простого к сложному</name>
@@ -116,7 +116,7 @@
                 <target>Развить навыки по ООП</target>
                 <param name="Выдаётся сертификат">Да</param>
                 <param name="Помощь с трудоустройством">Нет</param>
-                <picture>​https://www.figma.com/design/XzgizihnHjks3k6wZ7dFzj/Untitled?node-id=1-8&t=fqwZdCO3Jl4K8esc-1</picture>
+                <picture>​https://www.figma.com/design/XzgizihnHjks3k6wZ7dFzj/Untitled?node-id=1-8&amp;t=fqwZdCO3Jl4K8esc-1</picture>
             </offer>
         </offers>
 </shop>
