@@ -111,7 +111,7 @@
                 <description>Научишься писать производительный код на Python c помощью абстрактных классов, интерфейсов, SOLID, наследования, dataclass, итераторов, генераторов, Protocol и контекстных менеджеров</description>
                 <param name="Оплата в рассрочку">Да</param>
                 <param name="Период рассрочки">24</param>
-                <param name="Ежемесячный платеж">550</param>
+                <param name="Ежемесячный платеж">860</param>
                 <param name="Формат занятий">online</param>
                 <target>Развить навыки по ООП</target>
                 <param name="Выдаётся сертификат">Да</param>
