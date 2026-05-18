@@ -17,7 +17,7 @@
                 <currencyId>RUB</currencyId>
                 <specialization>Программирование и IT</specialization>
                 <param name="Дата начала">В любой момент</param>
-                <duration unit="week|month|year">9 month</duration>
+                <duration unit="week|month|year">3 month</duration>
                 <skills>
                     <skill id="1">Backend-разработка</skill> <!--Нужно отдать title навыка-->
                     <skill id="2">FastAPI</skill>
@@ -45,7 +45,7 @@
                 <currencyId>RUB</currencyId>
                 <specialization>Программирование и IT</specialization>
                 <param name="Дата начала">В любой момент</param>
-                <duration unit="week|month|year">12 month</duration>
+                <duration unit="week|month|year">3 month</duration>
                 <skills>
                     <skill id="1">Backend-разработка</skill> <!--Нужно отдать title навыка-->
                     <skill id="2">FastAPI</skill>
@@ -73,7 +73,7 @@
                 <currencyId>RUB</currencyId>
                 <specialization>Программирование и IT</specialization>
                 <param name="Дата начала">В любой момент</param>
-                <duration unit="week|month|year">12 month</duration>
+                <duration unit="week|month|year">3 month</duration>
                 <skills>
                     <skill id="1">Backend-разработка</skill> <!--Нужно отдать title навыка-->
                     <skill id="2">FastAPI</skill>
@@ -101,7 +101,7 @@
                 <currencyId>RUB</currencyId>
                 <specialization>Программирование и IT</specialization>
                 <param name="Дата начала">В любой момент</param>
-                <duration unit="week|month|year">1 year</duration>
+                <duration unit="week|month|year">1 month</duration>
                 <skills>
                     <skill id="1">ООП</skill> 
                     <skill id="2">Python</skill>
