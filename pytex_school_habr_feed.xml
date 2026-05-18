@@ -12,8 +12,8 @@
             <offer id="1" available="true"> 
                 <name>Backend разработка на Python. Тариф Только курс</name>
                 <url>https://pytex.school/courses/backend?utm_source=habr&amp;utm_medium=banner&amp;utm_campaign=regular&amp;utm_content=habr_courses_backend</url>
-                <price>51992</price>
-                <oldprice>64990</oldprice>
+                <price>64990</price>
+                <oldprice>76460</oldprice>
                 <currencyId>RUB</currencyId>
                 <specialization>Программирование и IT</specialization>
                 <param name="Дата начала">В любой момент</param>
@@ -30,18 +30,18 @@
                 <description>Всё, что пригодится на работе Backend разработчику — в одном курсе за 3 месяца. Без воды. На практике.</description>
                 <param name="Оплата в рассрочку">Да</param>
                 <param name="Период рассрочки">24</param>
-                <param name="Ежемесячный платеж">2900</param>
+                <param name="Ежемесячный платеж">2700</param>
                 <param name="Формат занятий">online</param>
                 <target>Развить навыки в backend разработке</target>
                 <param name="Выдаётся сертификат">Да</param>
                 <param name="Помощь с трудоустройством">Нет</param>
-                <picture>https://drive.google.com/uc?export=view&amp;id=1tS5TfERMwQzM5v9m-3H6yKGg--m-1WzD</picture>
+                <picture>https://drive.google.com/file/d/1E1KYzQrSe3rLvxgyLHzGhyb8TMhlrR8V/view?usp=sharing</picture>
             </offer>
             <offer id="2" available="true"> 
                 <name>Backend разработка на Python. Тариф Курс + Проект</name>
                 <url>https://pytex.school/courses/backend?utm_source=habr&amp;utm_medium=banner&amp;utm_campaign=regular&amp;utm_content=habr_courses_backend</url>
-                <price>63992</price>
-                 <oldprice>79990</oldprice>
+                <price>79990</price>
+                 <oldprice>94100</oldprice>
                 <currencyId>RUB</currencyId>
                 <specialization>Программирование и IT</specialization>
                 <param name="Дата начала">В любой момент</param>
@@ -58,18 +58,18 @@
                 <description>Всё, что пригодится на работе Backend разработчику — в одном курсе за 3 месяца. Без воды. На практике.</description>
                 <param name="Оплата в рассрочку">Да</param>
                 <param name="Период рассрочки">24</param>
-                <param name="Ежемесячный платеж">3700</param>
+                <param name="Ежемесячный платеж">3300</param>
                 <param name="Формат занятий">online</param>
                 <target>Развить навыки в backend разработке</target>
                 <param name="Выдаётся сертификат">Да</param>
                 <param name="Помощь с трудоустройством">Нет</param>
-                <picture>https://drive.google.com/uc?export=view&amp;id=1tS5TfERMwQzM5v9m-3H6yKGg--m-1WzD</picture>
+                <picture>https://drive.google.com/file/d/1E1KYzQrSe3rLvxgyLHzGhyb8TMhlrR8V/view?usp=sharing</picture>
             </offer>
             <offer id="3" available="true"> 
                 <name>Backend разработка на Python. Тариф Курс + Проект с автором</name>
                 <url>https://pytex.school/courses/backend?utm_source=habr&amp;utm_medium=banner&amp;utm_campaign=regular&amp;utm_content=habr_courses_backend</url>
-                <price>103992</price>
-                 <oldprice>129990</oldprice>
+                <price>129990</price>
+                 <oldprice>152900</oldprice>
                 <currencyId>RUB</currencyId>
                 <specialization>Программирование и IT</specialization>
                 <param name="Дата начала">В любой момент</param>
@@ -86,18 +86,18 @@
                 <description>Всё, что пригодится на работе Backend разработчику — в одном курсе за 3 месяца. Без воды. На практике.</description>
                 <param name="Оплата в рассрочку">Да</param>
                 <param name="Период рассрочки">24</param>
-                <param name="Ежемесячный платеж">5900</param>
+                <param name="Ежемесячный платеж">5400</param>
                 <param name="Формат занятий">online</param>
                 <target>Развить навыки в backend разработке</target>
                 <param name="Выдаётся сертификат">Да</param>
                 <param name="Помощь с трудоустройством">Нет</param>
-                <picture>https://drive.google.com/uc?export=view&amp;id=1tS5TfERMwQzM5v9m-3H6yKGg--m-1WzD</picture>
+                <picture>https://drive.google.com/file/d/1E1KYzQrSe3rLvxgyLHzGhyb8TMhlrR8V/view?usp=sharing</picture>
             </offer>
             <offer id="4" available="true"> 
                 <name>Продвинутое ООП в Python. От простого к сложному</name>
                 <url>https://pytex.school/courses/oop?utm_source=habr&amp;utm_medium=banner&amp;utm_campaign=regular&amp;utm_content=habr_courses_oop</url>
-                <price>9600</price>
-                 <oldprice>12000</oldprice>
+                <price>12000</price>
+                 <oldprice>14118</oldprice>
                 <currencyId>RUB</currencyId>
                 <specialization>Программирование и IT</specialization>
                 <param name="Дата начала">В любой момент</param>
@@ -116,7 +116,7 @@
                 <target>Развить навыки по ООП</target>
                 <param name="Выдаётся сертификат">Да</param>
                 <param name="Помощь с трудоустройством">Нет</param>
-                <picture>https://drive.google.com/uc?export=view&amp;id=1BhsakhjISTzTGeZ3l_9btsDxauuTnN4v</picture>
+                <picture>https://drive.google.com/file/d/1whKxEf_y6lf_HbeUh-3vhFACB_RSTZAC/view?usp=sharing</picture>
             </offer>
         </offers>
 </shop>
