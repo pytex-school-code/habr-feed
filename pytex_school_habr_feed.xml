@@ -12,7 +12,7 @@
             <offer id="1" available="true"> 
                 <name>Backend разработка на Python. Тариф Только курс</name>
                 <url>https://pytex.school/courses/backend?utm_source=habr&amp;utm_medium=banner&amp;utm_campaign=regular&amp;utm_content=habr_courses_backend</url>
-                <price>64990</price>
+                <price>55242</price>
                 <oldprice>76460</oldprice>
                 <currencyId>RUB</currencyId>
                 <specialization>Программирование и IT</specialization>
@@ -40,7 +40,7 @@
             <offer id="2" available="true"> 
                 <name>Backend разработка на Python. Тариф Курс + Проект</name>
                 <url>https://pytex.school/courses/backend?utm_source=habr&amp;utm_medium=banner&amp;utm_campaign=regular&amp;utm_content=habr_courses_backend</url>
-                <price>79990</price>
+                <price>67992</price>
                  <oldprice>94100</oldprice>
                 <currencyId>RUB</currencyId>
                 <specialization>Программирование и IT</specialization>
@@ -68,7 +68,7 @@
             <offer id="3" available="true"> 
                 <name>Backend разработка на Python. Тариф Курс + Проект с автором</name>
                 <url>https://pytex.school/courses/backend?utm_source=habr&amp;utm_medium=banner&amp;utm_campaign=regular&amp;utm_content=habr_courses_backend</url>
-                <price>129990</price>
+                <price>110492</price>
                  <oldprice>152900</oldprice>
                 <currencyId>RUB</currencyId>
                 <specialization>Программирование и IT</specialization>
@@ -96,7 +96,7 @@
             <offer id="4" available="true"> 
                 <name>Продвинутое ООП в Python. От простого к сложному</name>
                 <url>https://pytex.school/courses/oop?utm_source=habr&amp;utm_medium=banner&amp;utm_campaign=regular&amp;utm_content=habr_courses_oop</url>
-                <price>12000</price>
+                <price>10200</price>
                  <oldprice>14118</oldprice>
                 <currencyId>RUB</currencyId>
                 <specialization>Программирование и IT</specialization>
