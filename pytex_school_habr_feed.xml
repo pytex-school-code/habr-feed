@@ -118,6 +118,66 @@
                 <param name="Помощь с трудоустройством">Нет</param>
                 <picture>https://drive.google.com/file/d/1whKxEf_y6lf_HbeUh-3vhFACB_RSTZAC/view?usp=sharing</picture>
             </offer>
+            <offer id="5" available="true"> 
+                <name>Параллелизм В Python. Тариф "Стандарт"</name>
+                <url>https://pytex.school/courses/backend?utm_source=habr&utm_medium=banner&utm_campaign=regular&utm_content=habr_courses_parallelism</url>
+                <price>49000</price>
+                 <oldprice>56500</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Программирование и IT</specialization>
+                <param name="Дата начала">По факту набора потока</param>
+                <duration unit="week|month|year">6 weeks</duration>
+                <skills>
+                    <skill id="1">Python</skill> 
+                    <skill id="2">Параллельное программирование</skill>
+                    <skill id="3">Asyncio</skill>
+                    <skill id="4">Асинхронное программирование</skill>
+                    <skill id="5">Coroutines</skill>
+                    <skill id="6">Многопоточное программирование</skill>
+                    <skill id="7">PostgreSQL</skill>
+                    <skill id="8">Redis</skill>
+                    <skill id="8">SQLAlchemy</skill>
+                </skills>
+                <description>Исследуем production‑like python-приложение под нагрузкой и исправляем проблемы с конкурентностью и параллелизмом</description>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">24</param>
+                <param name="Ежемесячный платеж">2100</param>
+                <param name="Формат занятий">online</param>
+                <target>Развить навыки работы с параллелизмом в Python</target>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+                <picture>https://drive.google.com/file/d/1whKxEf_y6lf_HbeUh-3vhFACB_RSTZAC/view?usp=sharing</picture>
+            </offer>
+            <offer id="6" available="true"> 
+                <name>Параллелизм В Python. Тариф "Продвинутый"</name>
+                <url>https://pytex.school/courses/backend?utm_source=habr&utm_medium=banner&utm_campaign=regular&utm_content=habr_courses_parallelism</url>
+                <price>59000</price>
+                 <oldprice>68000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Программирование и IT</specialization>
+                <param name="Дата начала">По факту набора потока</param>
+                <duration unit="week|month|year">6 weeks</duration>
+                <skills>
+                    <skill id="1">Python</skill> 
+                    <skill id="2">Параллельное программирование</skill>
+                    <skill id="3">Asyncio</skill>
+                    <skill id="4">Асинхронное программирование</skill>
+                    <skill id="5">Coroutines</skill>
+                    <skill id="6">Многопоточное программирование</skill>
+                    <skill id="7">PostgreSQL</skill>
+                    <skill id="8">Redis</skill>
+                    <skill id="8">SQLAlchemy</skill>
+                </skills>
+                <description>Исследуем production‑like python-приложение под нагрузкой и исправляем проблемы с конкурентностью и параллелизмом</description>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">24</param>
+                <param name="Ежемесячный платеж">3100</param>
+                <param name="Формат занятий">online</param>
+                <target>Развить навыки работы с параллелизмом в Python</target>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+                <picture>https://drive.google.com/file/d/1whKxEf_y6lf_HbeUh-3vhFACB_RSTZAC/view?usp=sharing</picture>
+            </offer>
         </offers>
 </shop>
 </yml_catalog>
