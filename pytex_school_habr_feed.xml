@@ -120,7 +120,7 @@
             </offer>
             <offer id="5" available="true"> 
                 <name>Параллелизм В Python. Тариф "Стандарт"</name>
-                <url>https://pytex.school/courses/backend?utm_source=habr&utm_medium=banner&utm_campaign=regular&utm_content=habr_courses_parallelism</url>
+                <url>https://pytex.school/courses/backend?utm_source=habr&amp;utm_medium=banner&amp;utm_campaign=regular&amp;utm_content=habr_courses_parallelism</url>
                 <price>49000</price>
                  <oldprice>56500</oldprice>
                 <currencyId>RUB</currencyId>
@@ -150,7 +150,7 @@
             </offer>
             <offer id="6" available="true"> 
                 <name>Параллелизм В Python. Тариф "Продвинутый"</name>
-                <url>https://pytex.school/courses/backend?utm_source=habr&utm_medium=banner&utm_campaign=regular&utm_content=habr_courses_parallelism</url>
+                <url>https://pytex.school/courses/backend?utm_source=habr&amp;utm_medium=banner&amp;utm_campaign=regular&amp;utm_content=habr_courses_parallelism</url>
                 <price>59000</price>
                  <oldprice>68000</oldprice>
                 <currencyId>RUB</currencyId>
